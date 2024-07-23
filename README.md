@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcvra
 - 👀 I’m interested in front-end projects as a junior developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React, React-native and Three.js
 - 💞️ I’m looking to collaborate on creating fun front-end projects.
 - 📫 How to reach me: renato.vergara.dev@gmail.com
 - 😄 Pronouns: he/him
